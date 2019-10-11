@@ -1,0 +1,1411 @@
+.mediaViewInfo {
+	--web-view-name: custom – 4;
+	--web-view-id: custom___4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: custom___4;
+}
+* {
+	margin: 0;
+	padding: 0;
+
+}
+p{font-size: 16px;}
+#custom___4 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 600px;
+	height: 2865px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: custom – 4;
+	--web-view-id: custom___4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#overview_header {
+	position: absolute;
+	width: 554px;
+	height: 73px;
+	left: 23px;
+	top: 1087px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 554px;
+	height: 73px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Overview_of_PropTech_in_Austra {
+	position: absolute;
+	left: 266px;
+	top: 26px;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#protech_by_sector {
+	position: absolute;
+	width: 554px;
+	height: 80px;
+	left: 23px;
+	top: 1617px;
+	overflow: visible;
+
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+}
+#PropTech_by_Sector {
+	position: absolute;
+	left: 383px;
+	top: 26px;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#australia {
+	position: absolute;
+	width: 441.98px;
+	height: 414.95px;
+	left: 70px;
+	top: 593px;
+	overflow: visible;
+}
+#australia_A3_Group_4 {
+	position: absolute;
+	width: 441.98px;
+	height: 414.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.AU_NT {
+	overflow: visible;
+	position: absolute;
+	top: 9.73px;
+	left: 174.7px;
+	width: 97.7px;
+	height: 171.11px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_WA {
+	overflow: visible;
+	position: absolute;
+	top: 39.56px;
+	left: 0px;
+	width: 174.83px;
+	height: 256.05px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_ACT {
+	overflow: visible;
+	position: absolute;
+	top: 295.94px;
+	left: 389.29px;
+	width: 6.9px;
+	height: 10.08px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_NSW {
+	overflow: visible;
+	position: absolute;
+	top: 206.84px;
+	left: 304.95px;
+	width: 137.03px;
+	height: 120.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_SA {
+	overflow: visible;
+	position: absolute;
+	top: 180.76px;
+	left: 174.7px;
+	width: 130.3px;
+	height: 154.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_VIC {
+	overflow: visible;
+	position: absolute;
+	top: 280.66px;
+	left: 304.59px;
+	width: 97.8px;
+	height: 69.34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_QLD {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 272.41px;
+	width: 168.71px;
+	height: 219.39px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AU_TAS {
+	overflow: visible;
+	position: absolute;
+	top: 355.98px;
+	left: 335.75px;
+	width: 50.42px;
+	height: 58.97px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID265__Companies_and_Counting {
+	position: absolute;
+	left: 67px;
+	top: 122px;
+	overflow: visible;
+	width: 309px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+
+
+#australia:hover #ID265__Companies_and_Counting  {
+	opacity: 1;
+	cursor: default;
+}
+
+
+
+
+
+
+#number_of_protech_comanies_hea {
+	position: absolute;
+	width: 554px;
+	height: 73px;
+	left: 23px;
+	top: 454px;
+	overflow: visible;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 554px;
+	height: 73px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Number_of_PropTech_Companies_i {
+	position: absolute;
+	left: 129px;
+	top: 26px;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#overview_info {
+	position: absolute;
+	width: 544.5px;
+	height: 404px;
+	left: 33px;
+	top: 1192px;
+	overflow: visible;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	top: 45.5px;
+	left: 199.5px;
+	width: 2px;
+	height: 254px;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	top: 172.5px;
+	left: 227.5px;
+	width: 317px;
+	height: 2px;
+}
+.ID809090_512 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 369px;
+	top: 225px;
+}
+.ID115799_512 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 461px;
+	top: 225px;
+}
+.ID809117_512 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 260px;
+	top: 225px;
+}
+#ID37___Commerical {
+	position: absolute;
+	left: 239px;
+	top: 278px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+
+#overview_info:hover #ID37___Commerical  {
+	opacity: 1;
+	cursor: default;
+}
+
+
+
+
+#ID61__Residential {
+	position: absolute;
+	left: 352px;
+	top: 278px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+
+#overview_info:hover #ID61__Residential  {
+	opacity: 1;
+	cursor: default;
+}
+
+#ID2__Retail {
+	position: absolute;
+	left: 464px;
+	top: 278px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+
+#overview_info:hover #ID2__Retail  {
+	opacity: 1;
+	cursor: default;
+}
+
+#PropTech_Lifecycle__ {
+	position: absolute;
+	left: 20px;
+	top: 0px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#PropTech_Business_Type__ {
+	position: absolute;
+	left: 305px;
+	top: 0px;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+
+}
+#PropTech_Sector__ {
+	position: absolute;
+	left: 317px;
+	top: 186px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.ID314756_512 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 123px;
+	top: 32px;
+}
+.ID1851812_512 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 118px;
+	top: 165px;
+}
+.ID4137155_512__1_ {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 5px;
+	top: 32px;
+}
+#ID20___Build {
+	position: absolute;
+	left: 18px;
+	top: 101px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID20___Build  {
+	opacity: 1;
+	cursor: default;
+}
+#ID35___Manage {
+	position: absolute;
+	left: 118px;
+	top: 101px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID35___Manage  {
+	opacity: 1;
+	cursor: default;
+}
+#ID16___Buy {
+	position: absolute;
+	left: 13px;
+	top: 234px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID16___Buy  {
+	opacity: 1;
+	cursor: default;
+}
+#ID13___Rent {
+	position: absolute;
+	left: 124px;
+	top: 234px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID13___Rent  {
+	opacity: 1;
+	cursor: default;
+}
+#ID37___Sell {
+	position: absolute;
+	left: 76px;
+	top: 362px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID37___Sell {
+	opacity: 1;
+	cursor: default;
+}
+.b2b {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 252px;
+	top: 42px;
+}
+.b2c__2_ {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 345px;
+	top: 40px;
+}
+.b2b_A3_Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 426px;
+	top: 40px;
+}
+.b2c__2__A3_Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 471px;
+	top: 31px;
+}
+#ID54___B2B {
+	position: absolute;
+	left: 267px;
+	top: 118px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID54___B2B {
+	opacity: 1;
+	cursor: default;
+}
+#ID37___B2C {
+	position: absolute;
+	left: 365px;
+	top: 117px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID37___B2C {
+	opacity: 1;
+	cursor: default;
+}
+#ID9__Both {
+	position: absolute;
+	left: 463px;
+	top: 117px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#overview_info:hover #ID9__Both {
+	opacity: 1;
+	cursor: default;
+}
+.for_sale {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 62px;
+	top: 298px;
+}
+.sold {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 0px;
+	top: 171px;
+}
+#protech_by_sector_info {
+	position: absolute;
+	width: 559.5px;
+	height: 938.5px;
+	left: 23.5px;
+	top: 1732px;
+	overflow: visible;
+}
+#Residential_PropTech_Lifecycle {
+	position: absolute;
+	left: 9.5px;
+	top: 0px;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	top: 34.5px;
+	left: 261px;
+	width: 2px;
+	height: 254px;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	top: 302.5px;
+	left: 0px;
+	width: 554px;
+	height: 2px;
+}
+#Residential_PropTech_Business_ {
+	position: absolute;
+	left: 276.5px;
+	top: 2px;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+
+}
+#Commerical_PropTech_Lifecycle {
+	position: absolute;
+	left: 6.5px;
+	top: 325px;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	top: 359.5px;
+	left: 261px;
+	width: 2px;
+	height: 254px;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	top: 627.5px;
+	left: 0px;
+	width: 554px;
+	height: 2px;
+}
+#Commerical_PropTech_Business_T {
+	position: absolute;
+	left: 276.5px;
+	top: 325px;
+	overflow: visible;
+	width: 277px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Retail_PropTech_Lifecycle {
+	position: absolute;
+	left: 29.5px;
+	top: 650px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	top: 684.5px;
+	left: 261px;
+	width: 2px;
+	height: 254px;
+}
+#Retail_PropTech_Business_Type_ {
+	position: absolute;
+	left: 294.5px;
+	top: 650px;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.ID314756_512_A3_Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 90.5px;
+	top: 32px;
+}
+.ID1851812_512_A3_Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 46.5px;
+	top: 159px;
+}
+.ID4137155_512__1__A3_Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 6.5px;
+	top: 32px;
+}
+#ID11___Build {
+	position: absolute;
+	left: 19.5px;
+	top: 101px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID11___Build {
+	opacity: 1;
+	cursor: default;
+}
+#ID33___Manage {
+	position: absolute;
+	left: 85.5px;
+	top: 101px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID33___Manage {
+	opacity: 1;
+	cursor: default;
+}
+#ID24___Buy {
+	position: absolute;
+	left: 190.5px;
+	top: 101px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID24___Buy {
+	opacity: 1;
+	cursor: default;
+}
+#ID12___Rent {
+	position: absolute;
+	left: 52.5px;
+	top: 228px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID12___Rent {
+	opacity: 1;
+	cursor: default;
+}
+#ID20___Sell {
+	position: absolute;
+	left: 165.5px;
+	top: 228px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID20___Sell {
+	opacity: 1;
+	cursor: default;
+}
+.ID314756_512_A3_Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 86.5px;
+	top: 357px;
+}
+.ID1851812_512_A3_Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 42.5px;
+	top: 484px;
+}
+.ID4137155_512__1__A3_Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 2.5px;
+	top: 357px;
+}
+#ID35___Build {
+	position: absolute;
+	left: 15.5px;
+	top: 426px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID35___Build {
+	opacity: 1;
+	cursor: default;
+}
+#ID36___Manage {
+	position: absolute;
+	left: 81.5px;
+	top: 426px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID36___Manage {
+	opacity: 1;
+	cursor: default;
+}
+#ID4___Buy {
+	position: absolute;
+	left: 186.5px;
+	top: 426px;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID4___Buy {
+	opacity: 1;
+	cursor: default;
+}
+#ID14___Rent {
+	position: absolute;
+	left: 48.5px;
+	top: 553px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID14___Rent {
+	opacity: 1;
+	cursor: default;
+}
+#ID11___Sell {
+	position: absolute;
+	left: 161.5px;
+	top: 553px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID11___Sell {
+	opacity: 1;
+	cursor: default;
+}
+.ID314756_512_A3_Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 40.5px;
+	top: 735px;
+}
+.ID1851812_512_A3_Rectangle_40 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 173.5px;
+	top: 735px;
+}
+#ID67___Manage {
+	position: absolute;
+	left: 35.5px;
+	top: 804px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID67___Manage {
+	opacity: 1;
+	cursor: default;
+}
+#ID33___Rent {
+	position: absolute;
+	left: 179.5px;
+	top: 804px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID33___Rent {
+	opacity: 1;
+	cursor: default;
+}
+.b2b_A3_Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 276.5px;
+	top: 75px;
+}
+.b2c__2__A3_Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 369.5px;
+	top: 73px;
+}
+.b2b_A3_Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 450.5px;
+	top: 73px;
+}
+.b2c__2__A3_Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 495.5px;
+	top: 64px;
+}
+#ID35___B2B {
+	position: absolute;
+	left: 291.5px;
+	top: 151px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID35___B2B {
+	opacity: 1;
+	cursor: default;
+}
+#ID54___B2C {
+	position: absolute;
+	left: 389.5px;
+	top: 150px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID54___B2C {
+	opacity: 1;
+	cursor: default;
+}
+#ID11__Both {
+	position: absolute;
+	left: 487.5px;
+	top: 150px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID11__Both {
+	opacity: 1;
+	cursor: default;
+}
+.b2b_A3_Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 276.5px;
+	top: 408px;
+}
+.b2c__2__A3_Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 369.5px;
+	top: 406px;
+}
+.b2b_A3_Rectangle_54 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 450.5px;
+	top: 406px;
+}
+.b2c__2__A3_Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 495.5px;
+	top: 397px;
+}
+#ID85___B2B {
+	position: absolute;
+	left: 291.5px;
+	top: 484px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID85___B2B {
+	opacity: 1;
+	cursor: default;
+}
+#ID10___B2C {
+	position: absolute;
+	left: 389.5px;
+	top: 483px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID10___B2C {
+	opacity: 1;
+	cursor: default;
+}
+#ID5__Both {
+	position: absolute;
+	left: 487.5px;
+	top: 483px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID5__Both {
+	opacity: 1;
+	cursor: default;
+}
+.b2b_A3_Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 333.5px;
+	top: 729px;
+}
+.b2c__2__A3_Rectangle_60 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 426.5px;
+	top: 727px;
+}
+#ID54___B2B_A3_Text_43 {
+	position: absolute;
+	left: 348.5px;
+	top: 805px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID54___B2B_A3_Text_43 {
+	opacity: 1;
+	cursor: default;
+}
+#ID37___B2C_A3_Text_44 {
+	position: absolute;
+	left: 446.5px;
+	top: 804px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	 opacity: 0;
+    transition: all 0.5s;
+}
+#protech_by_sector_info:hover #ID37___B2C_A3_Text_44 {
+	opacity: 1;
+	cursor: default;
+}
+.for_sale_A3_Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 145.5px;
+	top: 488px;
+}
+.for_sale_A3_Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 150.5px;
+	top: 165px;
+}
+.sold_A3_Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 177.5px;
+	top: 39px;
+}
+.sold_A3_Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 64px;
+	left: 175.5px;
+	top: 363px;
+}
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 150px;
+	left: 300px;
+	top: 2715px;
+}
+#banner {
+	position: absolute;
+	width: 600px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.keith_zhu_qaNcz43MeY8_unsplash {
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1 {
+	opacity: 0.75;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 400px;
+	left: 0px;
+	top: 0px;
+}
+#PropTech_in_Australia {
+	position: absolute;
+	left: 101px;
+	top: 139px;
+	overflow: visible;
+	width: 400px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	top: 213.5px;
+	left: 169.5px;
+	width: 262.015px;
+	height: 5px;
+}
+#All_you_Need_to_Know {
+	position: absolute;
+	left: 142px;
+	top: 221px;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
